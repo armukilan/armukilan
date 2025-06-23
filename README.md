@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=armukilan&style=flat-square&color=F7971E" alt="visitor counter"/>
   <a href="mailto:mukilanar998@gmail.com"><img src="https://img.shields.io/badge/Email-F7971E?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mukilan-a-r/)"><img src="https://img.shields.io/badge/LinkedIn-21D4FD?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mukilan-a-r/"><img src="https://img.shields.io/badge/LinkedIn-21D4FD?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-B721FF?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
