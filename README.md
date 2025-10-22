@@ -43,6 +43,15 @@ I’m currently focusing on developing intelligent systems that bridge the gap b
 
 ---
 
+### 🛠️ Analytics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=armukilan&style=flat&color=gray" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/armukilan?label=Followers&style=flat&color=0A66C2" alt="GitHub Followers"/>
+</p>
+
+---
+
 <p align="center">
   <i>“Building systems that think, learn, and scale.”</i>
 </p>
