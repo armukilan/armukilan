@@ -17,7 +17,7 @@
 </p>
 
 <!-- About Me -->
-<h2 align="center">✨ About Me ✨</h2>
+<h2 align="center">✨ About Me...... ✨</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Masters%20Student-Computer%20Science-FFD200?style=for-the-badge&logo=academia&logoColor=black"/>
